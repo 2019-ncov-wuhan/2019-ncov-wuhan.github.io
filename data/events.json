@@ -299,7 +299,7 @@
                 {
                     "description": "截止1月24日22时，30省市先后启动重大突发公共卫生事件一级响应。",
                     "links": [],
-                    "img": "https://2019-n-cov.github.io/imgs/no1_alert_provinces.png"
+                    "img": "no1_alert_provinces.png"
                 },
                 {
                     "description": "武汉市新型肺炎防控指挥部发布第9号通告，自2020年1月26日0时始，除经许可的保供运输车、免费交通车、公务用车外，中心城区区域实行机动车禁行管理。市民确有通行需求的，按指挥部第8号通告执行，各社区配备足够车辆保障需求。",
@@ -460,7 +460,7 @@
                 {
                     "description": "李文亮因感染非典型肺炎，医治无效去世。（2.1被确诊患上新冠肺炎）",
                     "links": [],
-                    "img": "https://2019-n-cov.github.io/imgs/wenliang-weibo.png"
+                    "img": "wenliang-weibo.png"
                 }
             ]
         }
