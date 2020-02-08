@@ -463,6 +463,18 @@
                     "img": "wenliang-weibo.png"
                 }
             ]
+        },
+        {
+            "date": "2020.02.07",
+            "keywords": [],
+            "events": [
+                {
+                    "description": "国家监委派调查组赴武汉就涉李文亮医生的有关问题作全面调查",
+                    "links": [
+                        "https://www.thepaper.cn/newsDetail_forward_5835717"
+                    ]
+                }
+            ]
         }
     ]
 }
