@@ -1,6 +1,16 @@
 {
     "items": [
         {
+            "date": "2019.12.01",
+            "keywords": [],
+            "events": [
+                {
+                    "description": "《柳叶刀》流行病学回顾调查表明首位新型冠状病毒肺炎确诊病例当日发病（无华南海鲜批发市场接触史）",
+                    "links": ["https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext"]
+                }
+            ]
+        },
+        {
             "date": "2019.12.08",
             "keywords": [],
             "events": [
@@ -11,17 +21,63 @@
             ]
         },
         {
+            "date": "2019.12.25前后",
+            "keywords": [],
+            "events": [
+                {
+                    "description": "武汉市第五医院消化内科主任吕小红听说武汉两家医院有医护人员感染不明原因肺炎",
+                    "links": ["https://mp.weixin.qq.com/s?__biz=MjM5MDQ3MTEyMQ==&mid=2653326293&idx=1&sn=1ed3e933e3ac32c910fd1c9e4eb933d8&scene=21#wechat_redirect"]
+                }
+            ]
+        },
+        {
+            "date": "2019.12.26",
+            "keywords": [],
+            "events": [
+                {
+                    "description": "湖北省中西医结合医院呼吸内科主任张继先上报四位病人反常情况给湖北省中西医结合医院的相关部门和领导，医院也立马将这些异样上报给了江汉区疾控部门",
+                    "links": ["https://mp.weixin.qq.com/s?__biz=MTQzMTE0MjcyMQ==&mid=2666630752&idx=6&sn=ec60a531068ac78fb5239478a95f1c45&scene=21#wechat_redirect"]
+                },
+                {
+                    "description": "上海市公共卫生临床中心收集到武汉市中心医院和武汉市疾控中心的不明原因发热患者标本。",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "date": "2019.12.29",
+            "keywords": [],
+            "events": [
+                {
+                    "description": "湖北省和武汉市卫健委指示武汉市疾控中心、武汉金银潭医院和江汉区疾控中心到湖北省中西医结合医院开始流行病学调查",
+                    "links": []
+                }
+            ]
+        },
+        {
             "date": "2019.12.30",
             "keywords": [],
             "events": [
                 {
-                    "description": "武汉市卫健委内部下发的紧急通知《关于报送不明原因肺炎救治情况的紧急通知》在网络流传。",
+                    "description": "武汉市卫健委内部下发《关于报送不明原因肺炎救治情况的紧急通知》，称武汉出现不明原因肺炎，且与华南海鲜批发市场有关。",
                     "links": [
                         "http://www.bjnews.com.cn/news/2019/12/31/668430.html"
                     ]
                 },
                 {
-                    "description": "李文亮在大学同学群发了一段“华南海鲜水果市场确诊7例SARS”的文字。",
+                    "description": "李文亮、刘文、谢琳卡等医生通过微信群向同事发出提醒。",
+                    "links": []
+                },
+                {
+                    "description": "湖北省新华医院1位护士出现轻微感染",
+                    "links": ["http://weekly.caixin.com/2020-02-01/101510145.html"]
+                },
+                {
+                    "description": "中科院武汉病毒所完成新型冠状病毒样本的收集和标准化入库",
+                    "links": ["http://www.xinhuanet.com/2020-01/29/c_1125510543.htm"]
+                },
+                {
+                    "description": "湖北省和武汉市的卫生部门启动相关调查和病例搜索工作",
                     "links": []
                 }
             ]
@@ -39,6 +95,14 @@
                 {
                     "description": "武汉《长江日报》派记者去华南海鲜市场进行探访，记者探访报道说，市场秩序井然，仍然有很多人去买海鲜。",
                     "links": []
+                },
+                {
+                    "description": "华南海鲜批发市场大规模消毒",
+                    "links": []
+                },
+                {
+                    "description": "国家卫健委专家组抵达武汉，正式介入调查",
+                    "links": [""]
                 }
             ]
         },
@@ -55,6 +119,10 @@
                     "links": [
                         "https://chinadigitaltimes.net/chinese/2020/01/%E3%80%90%E6%97%A7%E9%97%BB%E9%87%8D%E6%B8%A9%E3%80%91%E6%AD%A6%E6%B1%89%E8%AD%A6%E6%96%B9%EF%BC%9A8%E4%BA%BA%E6%95%A3%E5%B8%83%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E4%B8%8D%E5%AE%9E%E6%B6%88%E6%81%AF/"
                     ]
+                },
+                {
+                    "description": "国家卫健委成立疫情领导小组。",
+                    "links": []
                 }
             ]
         },
@@ -65,6 +133,14 @@
                 {
                     "description": "官方通报的第一批病患最后一名发病者被确认。",
                     "links": []
+                },
+                {
+                    "description": "中科院武汉病毒所获得2019新型冠状病毒全基因组序列。",
+                    "links": []
+                },
+                {
+                    "description": "香港特区政府召开跨部门会议，检视针对武汉肺炎疫情的预防措施。",
+                    "links": ["https://sc.isd.gov.hk/TuniS/www.info.gov.hk/gia/general/202001/02/P2020010200773.htm"]
                 }
             ]
         },
@@ -77,10 +153,26 @@
                     "links": []
                 },
                 {
-                    "description": "武汉共发现符合不明原因的病毒性肺炎诊断患者44例，其中重症11例，其余患者生命体征总体稳定。",
+                    "description": "武汉卫健委通报：武汉共发现符合不明原因的病毒性肺炎诊断患者44例，其中重症11例，其余患者生命体征总体稳定，未发现“明显人传人”和“医护感染”。",
                     "links": [
                         "http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200105_1903301.shtml"
                     ]
+                },
+                {
+                    "description": "湖北省新华医院CT医生李云华发现3例CT异常。",
+                    "links": []
+                },
+                {
+                    "description": "中国开始向美国通报疫情信息和防控措施、向世卫组织和周边国家通报疫情。",
+                    "links": []
+                },
+                {
+                    "description": "武汉飞往新加坡的旅客抵达樟宜机场时需接受体温检测。",
+                    "links": []
+                },
+                {
+                    "description": "武汉市中心医院医生李文亮在武汉某派出所内签下训诫书。",
+                    "links": []
                 }
             ]
         },
@@ -89,8 +181,20 @@
             "keywords": ["武汉卫健委通报不明原因肺炎"],
             "events": [
                 {
+                    "description": "国家疾控中心研制出对新型冠状病毒高特异性的PCR检测试剂。",
+                    "links": []
+                },
+                {
                     "description": "香港特区政府启动“严重”应变级别。",
                     "links": []
+                },
+                {
+                    "description": "武汉市卫健委当日无通报。",
+                    "links": []
+                },
+                {
+                    "description": "中国工程院院士、中国疾病预防控制中心传染病预防控制所所长、病原检测结果初步评估专家组组长徐建国接受《大公报》采访，表示未发现明显的人传人证据，未发现医务人员感染，且没有发生死亡案例，说明病毒威胁水平有限，中国的传染病控制有多年的积累，绝不会出现因为春运发生大扩散的可能性。",
+                    "links": ["https://zhuanlan.zhihu.com/p/104541604"]
                 }
             ]
         },
@@ -99,16 +203,84 @@
             "keywords": ["武汉不明原因肺炎已排除SARS病原"],
             "events": [
                 {
+                    "description": "武汉同济医院急诊科医生陆俊CT异常。",
+                    "links": []
+                },
+                {
                     "description": "武汉共发现符合不明原因的病毒性肺炎诊断患者59例，其中重症患者7例，其余患者生命体征总体稳定，无死亡病例。初步调查表明，未发现明确的人传人证据，未发现医务人员感染。已排除流感、禽流感、腺病毒、传染性非典型肺炎（SARS）和中东呼吸综合征（MERS）等呼吸道病原。",
                     "links": [
                         "http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200105_1903304.shtml"
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "date": "2020.01.06",
+            "keywords": [],
+            "events": [
                 {
                     "description": "武汉进入两会时间。",
-                    "links": [
-                        "http://cjrb.cnhan.com/cjrb/20200106/6907.htm"
-                    ]
+                    "links": ["http://cjrb.cnhan.com/cjrb/20200106/6907.htm"]
+                },
+                {
+                    "description": "国家疾控中心内部启动二级应急响应。",
+                    "links": []
+                },
+                {
+                    "description": "湖北省新华医院内部开会强调“不造谣不传谣”，该院一名无华南海鲜市场接触史的呼吸内科医生CT异常。",
+                    "links": []
+                },
+                {
+                    "description": "当日武汉市卫健委无通报。",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "date": "2020.01.07",
+            "keywords": [],
+            "events": [
+                {
+                    "description": "武汉同济医院急诊科医生陆俊确诊。",
+                    "links": []
+                },
+                {
+                    "description": "国家疾控中心成功分离首株新型冠状病毒毒株。",
+                    "links": []
+                },
+                {
+                    "description": "当日武汉市卫健委无通报。",
+                    "links": []
+                },
+                {
+                    "description": "武汉市召开“两会”",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "date": "2020.01.08",
+            "keywords": [],
+            "events": [
+                {
+                    "description": "国家卫健委专家组确认新型冠状病毒为疫情病源。",
+                    "links": []
+                },
+                {
+                    "description": "王广发参与的国家卫健委专家组到达武汉。",
+                    "links": ["https://mp.weixin.qq.com/s?__biz=MjM5MDQ3MTEyMQ==&mid=2653326365&idx=1&sn=0f95bf062025e35fb6c7e98c32a41799&scene=21#wechat_redirect"]
+                },
+                {
+                    "description": "香港特区政府将武汉不明原因的病毒性肺炎纳入法定监管传染病",
+                    "links": []
+                },
+                {
+                    "description": "当日武汉市卫健委无通报。",
+                    "links": []
+                },
+                {
+                    "description": "武汉市召开“两会”",
+                    "links": []
                 }
             ]
         },
@@ -118,6 +290,18 @@
             "events": [
                 {
                     "description": "央视报道，武汉不明原因的病毒性肺炎病原检测结果初步评估专家组确定，病原体为新型冠状病毒。",
+                    "links": []
+                },
+                {
+                    "description": "武汉出现首例新冠死亡病例。",
+                    "links": []
+                },
+                {
+                    "description": "当日武汉市卫健委无通报。",
+                    "links": []
+                },
+                {
+                    "description": "武汉市召开“两会”",
                     "links": []
                 }
             ]
@@ -131,6 +315,42 @@
                     "links": [
                         "http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200111_1910442.shtml"
                     ]
+                },
+                {
+                    "description": "湖北省新华医院CT医生李云华发现30例CT异常。",
+                    "links": []
+                },
+                {
+                    "description": "香港大学深圳医院收治2名呼吸道疾病患者。",
+                    "links": []
+                },
+                {
+                    "description": "武汉大学中南医院ICU的16张床位住满，重症医学科主任彭志勇上报指出诊断标准过于严苛。",
+                    "links": []
+                },
+                {
+                    "description": "国家疾控中心与世界卫生组织和各国分享了新冠病毒的全基因序列。",
+                    "links": []
+                },
+                {
+                    "description": "国家卫健委专家组专家王广发对公众表示没有出现医护感染。",
+                    "links": ["http://www.xinhuanet.com/2020-01/11/c_1125448549.htm"]
+                },
+                {
+                    "description": "2020年全国铁路春运正式启动。",
+                    "links": []
+                },
+                {
+                    "description": "当日武汉市卫健委无通报。",
+                    "links": []
+                },
+                {
+                    "description": "武汉市召开“两会”",
+                    "links": []
+                },
+                {
+                    "description": "李文亮出现感染症状。",
+                    "links": []
                 }
             ]
         },
@@ -139,7 +359,19 @@
             "keywords": ["专家解读武汉不明原因肺炎", "武汉不明原因肺炎导致1人死亡"],
             "events": [
                 {
-                    "description": "武汉两会闭幕。1月5日到11日，武汉市卫健委未对外发布任何疫情信息。",
+                    "description": "湖北省两会开幕。",
+                    "links": []
+                },
+                {
+                    "description": "国家疾控中心向武汉提供PCR检测试剂。",
+                    "links": []
+                },
+                {
+                    "description": "武汉市卫健委当日通报称共发现41例新型冠状病毒感染肺炎确诊病例，1月3日之后无新感染病人，未发现“明显人传人”和“医护感染”。",
+                    "links": []
+                },
+                {
+                    "description": "CT显示李文亮双肺磨玻璃样病变。",
                     "links": []
                 }
             ]
@@ -149,7 +381,15 @@
             "keywords": [],
             "events": [
                 {
-                    "description": "湖北省两会开幕。",
+                    "description": "湖北省召开“两会”。",
+                    "links": []
+                },
+                {
+                    "description": "武汉市卫健委当日通报无新增确诊病例。",
+                    "links": []
+                },
+                {
+                    "description": "李文亮入院。",
                     "links": []
                 }
             ]
@@ -159,11 +399,53 @@
             "keywords": [],
             "events": [
                 {
+                    "description": "武汉3名护士当日确诊。",
+                    "links": ["https://www.toutiao.com/a1657608692913160/"]
+                },
+                {
                     "description": "世界卫生组织（WHO）发表声明称，泰国公共卫生部报告该国发现第一例武汉新型冠状病毒感染的肺炎病例。",
                     "links": []
                 },
                 {
                     "description": "世界卫生组织正式将引发此轮肺炎的病毒命名为2019新型冠状病毒（2019-nCoV）。",
+                    "links": []
+                },
+                {
+                    "description": "港澳台地区专家组前往武汉调查。",
+                    "links": []
+                },
+                {
+                    "description": "湖北省召开“两会”。",
+                    "links": []
+                },
+                {
+                    "description": "武汉市卫健委当日通报市内无新增确诊病例、泰国通报1例确诊。",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "date": "2020.01.14",
+            "keywords": [],
+            "events": [
+                {
+                    "description": "国家卫健委召开全国卫生健康系统视频会议，通报疫情。",
+                    "links": []
+                },
+                {
+                    "description": "一个赴武汉参会的黄冈下辖县代表团数名成员入院，两名重症。",
+                    "links": ["https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652403606&idx=1&sn=3c1b912f56449a75347fb20bd52a26c2&scene=21#wechat_redirect"]
+                },
+                {
+                    "description": "卫健委专家徐建国对《科学》杂志表示，763名密接者无一感染，疫情程度有限，如下周无新增病例或将结束。",
+                    "links": []
+                },
+                {
+                    "description": "湖北省召开“两会”。",
+                    "links": []
+                },
+                {
+                    "description": "武汉市卫健委当日通报无新增确诊病例，称尚未发现明确人传人，不排除有限人传人。",
                     "links": []
                 }
             ]
@@ -473,6 +755,16 @@
                     "links": [
                         "https://www.thepaper.cn/newsDetail_forward_5835717"
                     ]
+                }
+            ]
+        },
+        {
+            "date": "2020.02.08",
+            "keywords": [],
+            "events": [
+                {
+                    "description": "国务院联防联控机制召开新闻发布会，将'新型冠状病毒感染的肺炎'暂命名为'新型冠状病毒肺炎'，简称'新冠肺炎'，英文简称'NCP'",
+                    "links": []
                 }
             ]
         }
